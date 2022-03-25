@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teknoloid", "Teknoloid\Teknoloid.csproj", "{1F80AD4A-71AE-4B49-A497-7B7D17FEC3C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F80AD4A-71AE-4B49-A497-7B7D17FEC3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F80AD4A-71AE-4B49-A497-7B7D17FEC3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F80AD4A-71AE-4B49-A497-7B7D17FEC3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F80AD4A-71AE-4B49-A497-7B7D17FEC3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03CBB851-3B2A-4605-BECE-981206ACFA17}
+	EndGlobalSection
+EndGlobal
