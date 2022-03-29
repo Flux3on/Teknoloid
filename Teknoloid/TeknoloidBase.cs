@@ -54,7 +54,9 @@ namespace Teknoloid
 
             // TODO: Add your drawing code here
             _spriteBatch.Begin();
-            
+            _spriteBatch.Draw(_gameContent.LogoGraphic, new Rectangle(50, 50, 256, 256), Color.White);
+            _spriteBatch.Draw(_gameContent.NoteGraphic, new Vector2(300, 300), Color.Red);
+            _spriteBatch.Draw(_gameContent.NoteOverlayGraphic, new Vector2(300, 300), Color.White);
             _spriteBatch.End();
 
 

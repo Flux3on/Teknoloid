@@ -11,12 +11,12 @@ namespace Teknoloid.AudioVisual
 	public class GameContent
 	{
 		// Create the graphic variables
-		public Texture2D LogoGraphic { get; set; }
-		public Texture2D NoteGraphic { get; set; }
-		public Texture2D NoteOverlayGraphic { get; set; }
-		public Texture2D RhythmBarGraphic { get; set; }
-		public Texture2D ButtonSideGraphic { get; set; }
-		public Texture2D ButtonMiddleGraphic { get; set; }
+		public Texture2D LogoGraphic { get; }
+		public Texture2D NoteGraphic { get; }
+		public Texture2D NoteOverlayGraphic { get; }
+		public Texture2D RhythmBarGraphic { get; }
+		public Texture2D ButtonSideGraphic { get; }
+		public Texture2D ButtonMiddleGraphic { get; }
 
 		public GameContent(ContentManager Content)
 		{
